@@ -5,7 +5,7 @@ h1{
   font-family: Algerian, Broadway, fantasy;
   text-align: center;
   }
-h2{
+h2,h3{
   font-family: Algerian, Broadway, fantasy;
   text-align: center;
   }
@@ -39,7 +39,21 @@ h2{
 }
 ul li{ 
   font-style: serif;
-  font-size: 75%;
+  font-size: 125%;
 }
-
-
+table, th, td {
+  border:1px solid black;
+}
+table{
+  width: 100%
+}
+a{
+  color: rgb(87, 141, 127);
+}
+iframe{
+  width: 560px;
+  height: 315px; 
+}
+img{
+  width: 300px;
+}
